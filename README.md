@@ -1,6 +1,7 @@
 
 Instrucciones
-• Se requiere desarrollar una aplicación para encuesta de deportes favoritos: • El stack de herramientas es SpringBoot(JAVA), Flutter y la base de datos a su preferencia 
+• Se requiere desarrollar una aplicación para encuesta de deportes favoritos: 
+• El stack de herramientas es SpringBoot(JAVA), Flutter y la base de datos a su preferencia 
 • La aplicación Flutter consta de 2 Pantallas y para el formulario y otra para la visualización de la tabla con los resultados insertados 
 • El formulario de encuesta tiene los campos: o Mail (único e identificador del usuario) o Listado de Deportes Ejem. Beisbol, Futbol, Golf , Etc... 
 • El listado de deportes debe cargarse de datos almacenados en la base de datos 
